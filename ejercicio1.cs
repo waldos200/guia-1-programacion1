@@ -6,7 +6,7 @@ namespace ejercicio1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("C# (en inglés es pronunciado como 'C Sharp', en español como 'C Almohadilla')");
+            Console.WriteLine("C# (en inglés es pronunciado como \"C Sharp\", en español como \"C Almohadilla\")");
         }
     }
 }
