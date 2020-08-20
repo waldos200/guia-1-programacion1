@@ -6,7 +6,7 @@ namespace ejercicio2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Programacion I / Técnicas de programación I \nSección:'01'");
+            Console.WriteLine("Programacion I \\ Técnicas de programación I \nSección:'01'");
         }
     }
 }
